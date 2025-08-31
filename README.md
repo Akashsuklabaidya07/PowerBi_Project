@@ -36,9 +36,11 @@ Loan defaults are a critical challenge for banks and financial institutions. Thi
 Here are the main report pages from the Loan Default & Risk Analysis dashboard:
 
 <p align="center">
-  <img src="images/dashboard_overview.png" alt="Dashboard Overview" width="45%"/>
-  <img src="images/dashboard_demographics.png" alt="Dashboard Demographics" width="45%"/>
-   <img src="images/demographics.png" alt=" Demographics" width="45%"/>
+  <img src="WhatsApp Image 2025-08-31 at 18.50.51_96c8dc82.jpg" alt="Loan Default and Overview" width="30%"/>
+    
+  <img src="WhatsApp Image 2025-08-31 at 18.49.23_dd257392.jpg" alt="Applicant Demographics and Financial Profile" width="30%"/>
+  
+  <img src="WhatsApp Image 2025-08-31 at 18.49.24_63793842.jpg" alt=" Financial Risk Matrics" width="30%"/>
 </p>
 
 ---
