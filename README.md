@@ -97,7 +97,7 @@ Employment & Income Risk Analysis Page
 
 (Add your screenshots here in the GitHub repo)
 
-📊 Insights
+## 📊 Insights
 1️⃣ Loan Distribution & Purpose
 
 Home Loans (6543M) had the highest loan amounts, followed by Business (6522M) and Education (6311M).
@@ -144,7 +144,7 @@ Income bracket analysis highlights that medium income borrowers take higher loan
 
 Employment stability directly correlates with default probability → stable jobs = safer borrowers.
 
-✅ Conclusion
+## ✅ Conclusion
 
 This dashboard provides a 360° financial risk assessment for banks:
 
@@ -157,3 +157,24 @@ Highlights default trends over years, income brackets, and job categories.
 Supports better loan approvals, risk scoring, and recovery strategies.
 
 With these insights, financial institutions can reduce default exposure, strengthen credit policies, and maximize profitability.
+## 📸 Snapshots  
+
+### 1️⃣ Loan Default & Overview  
+![Overview Dashboard](images/Screenshot1.png)  
+
+### 2️⃣ Applicant Demographics & Financial Profile  
+![Demographics Dashboard](images/Screenshot2.png)  
+
+### 3️⃣ Financial Risk Metrics  
+![Financial Risk Dashboard](images/Screenshot3.png)  
+
+### 4️⃣ Education & Loan Behavior  
+![Education Dashboard](images/Screenshot4.png)  
+
+### 5️⃣ Regional & Geographic Insights  
+![Regional Dashboard](images/Screenshot5.png)  
+
+### 6️⃣ Employment & Income Risk Analysis  
+![Employment Dashboard](images/Screenshot6.png)  
+
+---
